@@ -1,0 +1,21 @@
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\obj\Debug\HangMan.Form1.resources
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\me\Documents\Visual Studio 2012\Projects\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\me\Desktop\college work L6\c# assignment 2\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\me\Desktop\college work L6\c# assignment 2\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\me\Desktop\college work L6\c# assignment 2\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\obj\Debug\HangMan.Form1.resources
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+C:\Users\me\Desktop\everything\college work L6\c# assignment 2\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.Cache
